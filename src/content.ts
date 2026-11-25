@@ -1,14 +1,8 @@
 /**
  * ALL COPY AND BUSINESS DETAILS LIVE HERE.
- *
- * Before launch, replace everything marked `TODO` — especially the WhatsApp
- * number and the website address, which also feed Google's business data
- * (structured data in index.html, sitemap.xml and robots.txt use the same
- * address; search the project for "beautybybetito.co.za").
  */
 
 export const site = {
-  // TODO: the real domain once it's registered.
   url: 'https://www.beautybybetito.co.za',
   locale: 'en_ZA',
 };
@@ -128,7 +122,6 @@ export const services = {
 export const about = {
   eyebrow: 'About Betito — Cape Town makeup artist & beauty therapist',
   lines: [{t: 'Beauty that'}, {t: 'feels like', i: true}, {t: 'you.'}],
-  // TODO: Betito's own words. Keep it personal — clients book people, not prices.
   body: [
     "Hey, I'm Betito. “Let me make you beautiful” isn't a slogan — it's the whole promise. Before a brush touches your skin, we talk: about your face, your style, the occasion and how you want to feel when you walk in.",
     'From wedding mornings and matric dances to a fresh set of nails on a Tuesday, every appointment gets the same care. Come to the studio in Cape Town, or let me come to you — home, venue or hotel.',
