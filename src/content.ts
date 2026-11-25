@@ -207,5 +207,4 @@ export const reviews: {name: string; quote: string; service: string}[] = [];
 
 export const footer = {
   line: 'Makeup artist, nail technician, lash & skin therapist in Cape Town, South Africa.',
-  credit: 'Imagery via Pexels.',
 };

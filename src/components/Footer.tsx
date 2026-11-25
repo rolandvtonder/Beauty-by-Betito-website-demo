@@ -62,7 +62,6 @@ export function Footer() {
         <p className="caps text-white/55">
           © {year} {brand.name} · {brand.city}
         </p>
-        <p className="caps text-white/55">{footer.credit}</p>
       </div>
     </footer>
   );
