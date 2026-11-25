@@ -23,10 +23,10 @@ export const brand = {
 };
 
 export const contact = {
-  // TODO: Betito's WhatsApp Business number, international format, digits only (27 = South Africa).
-  whatsapp: '27000000000',
-  // TODO: the same number written for people.
-  phoneDisplay: '+27 00 000 0000',
+  // Betito's WhatsApp Business number, international format, digits only (27 = South Africa).
+  whatsapp: '27699113721',
+  // The same number written for people.
+  phoneDisplay: '+27 69 911 3721',
   hours: 'Open 24 hours',
   hoursNote: '7 days a week — early wedding call times and late events included.',
   // Socials appear in the menu and footer only once they have a link.
